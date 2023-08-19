@@ -5,5 +5,5 @@
 ## Tecnologias que uso no meu dia a dia:
 
 <div style:"display : inline_block">
-<img url="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></div><br>
+<img alt="React" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></div><br>
 
