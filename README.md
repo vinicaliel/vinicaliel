@@ -21,7 +21,7 @@
 <br>
 
 <div style:"display : inline_block">
-<img alt="json" align="center" src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></div>
+<img alt="json" align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></div>
 <br>
 
 <div style:"display : inline_block">
@@ -29,7 +29,7 @@
 <br>
 
 <div style:"display : inline_block">
-<img alt="ReactNative" align="center" src="	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></div>
+<img alt="ReactNative" align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></div>
 <br>
 
 <div style:"display : inline_block">
@@ -50,6 +50,7 @@
 
 <div style:"display : inline_block">
 <img alt="docker" align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></div>
+</div>
 <br>
 
 
