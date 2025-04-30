@@ -1,39 +1,57 @@
-### Olá, meu nome é Vinicius Caliel Nunes Passos e estou cursando Ciências da computação na UNINASSAU.
+# 👋 Olá, eu sou Vinicius Caliel Nunes Passos!
 
 
 
 ![Caliel GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinicaliel&theme=dracula)
 
-## Tecnologias que uso no meu dia a dia:
+Sou estudante de **Ciência da Computação** com paixão por desenvolvimento backend e tecnologias Java.  
+Atualmente estou em busca de uma oportunidade de **estágio em Desenvolvimento WEB** para aplicar e expandir meus conhecimentos.
 
-<div style = "display : inline_block"><br>
-  
-<img alt="html5" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+---
 
-<img alt="css" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+## 🚀 Sobre mim
 
-<img alt="nodeJS" align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+- 💻 Desenvolvedor em formação com foco em **Java + Spring Framework**
+- 📊 Tive a oportunidade de atuar como **estagiário em engenharia de dados** na Compass UOL
+- 🌱 Estou sempre aprendendo algo novo — recentemente finalizei o **Decola Tech 2025** (Java, Spring e Angular)
+- 🌐 Gosto de trabalhar em equipe, escrever código limpo e entender o "porquê" das soluções
 
-<img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+---
 
-<img alt="json" align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+## 🧰 Tecnologias que uso e estudo
 
-<img alt="ReactNative" align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- **Back-end:** Java, Spring Boot, Maven , Python, Typescript
+- **Front-end** Angular 
+- **Banco de dados:** PostgreSQL, Mysql, 
+- **Ferramentas:** Git, GitHub, AWS Cloud
+- **Outros:** Angular (básico), Metodologias Ágeis (Scrum, Kanban)
 
-<img alt="React" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+---
 
-<img alt="mysql" align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+## 📚 Formação
 
-<img alt="postgress" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+🎓 Bacharelado em Ciência da Computação na UNINASSAU/Graças
+📅 Conclusão prevista: Junho de 2026
 
-<img alt="express" align="center" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+---
 
-<img alt="docker" align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+## 🌍 Idiomas
 
-<img alt="GIT" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+- 🇺🇸 Inglês avançado (leitura técnica, conversação e escrita)
 
-<img alt="Typescript" align="center" src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
-</div>
+---
+
+## 📫 Como me encontrar
+
+- ✉️ E-mail: caliel1023@yahoo.com 
+- 💼 Linkedin: https://www.linkedin.com/in/caliel-passos-08495126a/
+
+
+---
+
+✨ Obrigado por visitar meu perfil!
+
+
 
 
 
